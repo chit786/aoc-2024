@@ -1,7 +1,7 @@
 package main
 
 import (
-	"day1/utils"
+	"aoc/utils"
 	"fmt"
 	"strconv"
 	"strings"
